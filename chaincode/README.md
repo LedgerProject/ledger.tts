@@ -1,4 +1,4 @@
-# LEGER TTS Chaincode
+# LEDGER TTS Chaincode
 
 The instructions in this README will help you to install the TTS chaincode on your
 Fabric network

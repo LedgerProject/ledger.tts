@@ -1,7 +1,7 @@
 {
   "name": "ledger-tts-rest-api",
   "version": "1.0.0",
-  "description": "A REST api supporting the LEGER TTS",
+  "description": "A REST api supporting the LEDGER TTS",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
